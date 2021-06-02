@@ -197,20 +197,20 @@
       "SubCategories": [
         {
           "Id": "4fc51e6e-c176-4787-af1f-a1f0db2b3cdf",
-          "Name": "Modern workplace",
+          "Name": "mvl - Modern workplace",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         },
         {
           "Id": "5f91a194-fe8d-497d-b81d-6437739916b1",
-          "Name": "Work remotely",
+          "Name": "mvl - Work remotely",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         }
       ]
